@@ -1,6 +1,0 @@
-fastapi
-uvicorn
-pytesseract
-openai
-python-multipart
-Pillow
